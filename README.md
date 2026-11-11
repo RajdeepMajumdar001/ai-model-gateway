@@ -18,8 +18,6 @@ Production-oriented FastAPI gateway for serving, monitoring, and managing AI mod
 - Health check endpoint
 - Interactive OpenAPI/Swagger documentation
 
-   These describe what the current V1 actually implements.
-
    ## Architecture
 Client
   ↓
@@ -75,7 +73,7 @@ AI Model
 - Model optimization and serving
 - Edge AI deployment
 
-<!--
+
 Planned technologies are intentionally separated from
 the currently implemented V1 features.
--->
+
